@@ -1,10 +1,10 @@
-🎓 College Performance & Student Success Dashboard
+<h>🎓 College Performance & Student Success Dashboard </h>
 
-Power BI | Data Analytics Portfolio Project
+<h2>Power BI | Data Analytics Portfolio Project.</h2>
 
 <img src="dashboard/Overview.png" width="800">
 
-📌 Project Overview
+<h3>📌 Project Overview</h3>
 
 This project presents an end-to-end data analytics and Power BI reporting solution for analysing student success at a fictional institution, Robin’s Rise College.
 
@@ -38,6 +38,8 @@ Where should leadership focus intervention efforts to improve retention?
 
 How can data be used to identify early warning signs of withdrawal?
 
+<h3>Data Model</h3>
+<img src="Data_Model.png" width="400">
 
 📊 Dashboard Structure & Narrative Flow
 Page 1 — Overview
