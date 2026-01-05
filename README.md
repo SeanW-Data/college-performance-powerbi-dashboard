@@ -2,6 +2,8 @@
 
 Power BI | Data Analytics Portfolio Project
 
+<img src="dashboard/Overview.png" width="800">
+
 📌 Project Overview
 
 This project presents an end-to-end data analytics and Power BI reporting solution for analysing student success at a fictional institution, Robin’s Rise College.
@@ -67,10 +69,8 @@ Student status distribution (Withdrawn vs Completed vs Active) using a donut cha
 
 Dynamic year slicer
 
-![Overview Dashboard](dashboard/Overview.png)
-
-![Overview With Slicer Panel](dashboard/Overview_Slicers.png)
-
+<img src="dashboard/Overview_Slicers.png" width="800">
+*Overview Page with dynamic slicer panel
 
 
 Page 2 — Student Engagement & Attendance
@@ -90,9 +90,7 @@ Relationship between attendance and performance
 
 Department-level attendance comparisons
 
-![Student Engagement & Attendance](dashboard/Student_Engagement.png)
-
-
+<img src="dashboard/Student_Engagement.png" width="800">
 
 Page 3 — Performance, Achievement & Withdrawals
 
@@ -111,7 +109,7 @@ Funnel-style view of the student journey:
 
 Enrolled → Active → Completed / Withdrawn
 
-![Performance, Achievement & Withdrawals](dashboard/Performance.png)
+<img src="dashboard/Performance.png" width="800">
 
 Page 4 — Insights & Recommendations
 
@@ -130,7 +128,7 @@ Data-backed recommendations
 
 Final comparison of early vs late academic year trends
 
-![Insights & Recommendations](dashboard/Insights.png)
+<img src="dashboard/Insights.png" width="800">
 
 
 
