@@ -1,17 +1,17 @@
-<h>🎓 College Performance & Student Success Dashboard </h>
+<h2>🎓 College Performance & Student Success Dashboard </h2>
 
-<h2>Power BI | Data Analytics Portfolio Project.</h2>
+<h3>Power BI | Data Analytics Portfolio Project.</h3>
 
 <img src="dashboard/Overview.png" width="800">
 
 <h3>📌 Project Overview</h3>
 
-This project presents an end-to-end data analytics and Power BI reporting solution for analysing student success at a fictional institution, Robin’s Rise College.
+This project presents an end-to-end data analytics and Power BI reporting solution for analysing student success at a fictional institution, Robin’s Rise College, using synthetic data provided by Cenit College.
 
 The dashboard is designed to support academic leadership and operational decision-making by providing visibility into student performance, attendance, withdrawals, and completions. It follows a structured data storytelling approach, progressing from a high-level overview to diagnostic analysis and actionable recommendations.
 
 
-🎯 Project Objectives
+<h3>🎯 Project Objectives</h3>
 
 Provide an executive-level snapshot of student success and outcomes
 
@@ -24,7 +24,7 @@ Highlight risk areas and stable performers
 Demonstrate practical skills in Power BI, DAX, data modelling, and data storytelling
 
 
-❓ Business Questions Answered
+<h3>❓ Business Questions Answered</h3>
 
 How is the college performing overall in terms of pass rates and completion?
 
@@ -40,8 +40,9 @@ How can data be used to identify early warning signs of withdrawal?
 
 <h3>Data Model</h3>
 <img src="Data_Model.png" width="400">
+<p>Originally, the data consisted of a many-to-many relationship between the students table and the courses table. I created a bridging table to separate the two into one-to-many relationships, reducing ambiguity and ensuring all data is filtered correctly</p>
 
-📊 Dashboard Structure & Narrative Flow
+<h3>📊 Dashboard Structure & Narrative Flow</h3>
 Page 1 — Overview
 
 Purpose:
@@ -77,7 +78,7 @@ Dynamic year slicer
   
 </p>
 
-Page 2 — Student Engagement & Attendance
+<h3>Page 2 — Student Engagement & Attendance</h3>
 
 Purpose:
 Explain why success rates look the way they do by analysing engagement patterns.
@@ -96,7 +97,7 @@ Department-level attendance comparisons
 
 <img src="dashboard/Student_Engagement.png" width="800">
 
-Page 3 — Performance, Achievement & Withdrawals
+<h3>Page 3 — Performance, Achievement & Withdrawals</h3>
 
 Purpose:
 Drill deeper into performance outcomes and identify withdrawal drivers.
@@ -115,7 +116,7 @@ Enrolled → Active → Completed / Withdrawn
 
 <img src="dashboard/Performance.png" width="800">
 
-Page 4 — Insights & Recommendations
+<h3>Page 4 — Insights & Recommendations</h3>
 
 Purpose:
 Translate analysis into clear, actionable insights for decision-makers.
@@ -136,7 +137,7 @@ Final comparison of early vs late academic year trends
 
 
 
-🔍 Key Insights Discovered
+<h3>🔍 Key Insights Discovered</h3>
 Success Drivers
 
 Pass rate increased by 2.4% from 2024 to 2025, indicating encouraging progress in academic outcomes.
@@ -157,7 +158,7 @@ The Data Analytics course dropped from the highest to the lowest pass rate, driv
 
 Attendance challenges persist across multiple courses, negatively impacting both performance and completion outcomes.
 
-📌 Recommendations
+<h3>📌 Recommendations</h3>
 
 To address the mixed performance trends, focus should be placed on strengthening attendance and student engagement, particularly within the Data Analytics course, where reduced participation has directly contributed to declining pass rates.
 
@@ -165,7 +166,7 @@ At the same time, targeted retention strategies are required to reduce withdrawa
 
 Ongoing monitoring of pass rates, test scores, attendance, and completion rates will help identify early warning signs. Directing resources toward courses with sharper declines while reinforcing approaches used by stable, high-performing subjects will support a balanced and data-driven response to improving student success.
 
-🛠 Tools & Skills Demonstrated
+<h3>🛠 Tools & Skills Demonstrated</h3>
 
 Power BI
 
