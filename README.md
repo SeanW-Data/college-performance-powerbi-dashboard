@@ -8,6 +8,7 @@ This project presents an end-to-end data analytics and Power BI reporting soluti
 
 The dashboard is designed to support academic leadership and operational decision-making by providing visibility into student performance, attendance, withdrawals, and completions. It follows a structured data storytelling approach, progressing from a high-level overview to diagnostic analysis and actionable recommendations.
 
+
 🎯 Project Objectives
 
 Provide an executive-level snapshot of student success and outcomes
@@ -19,6 +20,7 @@ Understand drivers behind withdrawals and completions
 Highlight risk areas and stable performers
 
 Demonstrate practical skills in Power BI, DAX, data modelling, and data storytelling
+
 
 ❓ Business Questions Answered
 
@@ -33,6 +35,7 @@ Which courses or departments are driving success, and which present risk?
 Where should leadership focus intervention efforts to improve retention?
 
 How can data be used to identify early warning signs of withdrawal?
+
 
 📊 Dashboard Structure & Narrative Flow
 Page 1 — Overview
@@ -68,6 +71,8 @@ Dynamic year slicer
 
 ![Overview With Slicer Panel](dashboard/Overview_Slicers.png)
 
+
+
 Page 2 — Student Engagement & Attendance
 
 Purpose:
@@ -86,6 +91,8 @@ Relationship between attendance and performance
 Department-level attendance comparisons
 
 ![Student Engagement & Attendance](dashboard/Student_Engagement.png)
+
+
 
 Page 3 — Performance, Achievement & Withdrawals
 
@@ -125,6 +132,8 @@ Final comparison of early vs late academic year trends
 
 ![Insights & Recommendations](dashboard/Insights.png)
 
+
+
 🔍 Key Insights Discovered
 Success Drivers
 
@@ -132,7 +141,7 @@ Pass rate increased by 2.4% from 2024 to 2025, indicating encouraging progress i
 
 Attendance rose modestly year-on-year, supporting improvements in pass rates and reinforcing attendance as a success driver.
 
-Overall student numbers remain significant, providing stability despite mixed performance trends.
+Overall, student numbers remain significant, providing stability despite mixed performance trends.
 
 Certain subjects maintained steady attendance, highlighting pockets of strength and effective course delivery.
 
